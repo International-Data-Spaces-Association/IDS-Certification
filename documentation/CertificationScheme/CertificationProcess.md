@@ -43,8 +43,7 @@ certification process.
    facility or the issue of a certificate.
 
 -   If the application is accepted, the evaluation procedure will be
-   opened and there will be a Kick-Off with all involved partners
-   (applicant, evaluation facility, certification body).
+   started.
 
 For the next phase (evaluation stage), the applicant must provide the
 necessary documents and the component with the necessary
@@ -57,7 +56,7 @@ certification body.
 
 The main goal of this stage is the evaluation of an IDS
 core component based on the defined certification criteria. If
-necessary, corrective actions need to be per- formed by the applicant
+necessary, corrective actions need to be performed by the applicant
 to achieve a successful certification. The parties mainly involved
 at this stage are the applicant and evaluation facility; it includes
 the following steps:
@@ -66,8 +65,7 @@ the following steps:
    technical and/or organizational evaluation work during the
    certification. The basis for the evaluation is the
    criteria catalog for the component. This includes the execution
-   of all necessary tests and on-site checks, with the details
-   depending on the chosen certification level.
+   of all necessary tests and checks.
 
 -   The evaluation facility documents the detailed results in an
    evaluation report. The recipients of this report are the applicant
@@ -75,14 +73,11 @@ the following steps:
 
 -   If deviations have been identified, corrective actions will be
    defined. Implementing these corrective actions is the responsibility
-   of the applicant. Afterwards, a re-examination is necessary. A
-   renewed on-site check is only required for serious defects, i.e.
-   in cases where the rectification can only be checked on-site.
+   of the applicant. Afterwards, a re-examination is necessary. 
 
--   The evaluation is monitored by the certification body to ensure the
+-   The evaluation can be monitored by the certification body to ensure the
    correct implementation and execution of the IDS certification
-   scheme. This can include the accompaniment of the evaluation
-   facility during an on-site check.
+   scheme. 
 
 The result of this stage is the evaluation report, created by the
 evaluation facility. The report serves the certification body in the
