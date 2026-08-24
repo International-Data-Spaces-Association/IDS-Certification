@@ -1,136 +1,137 @@
-Preamble
+# Preamble
+
 Certification according to the International Data Spaces Certification Scheme (IDS-CS) is available to all organizations participating in the IDS and developers of IDS core components. IDS-CS is a certification scheme developed by the Working Group Certification on behalf of the International Data Spaces Association. The IDS-CS certification procedure has not yet been expressly regulated by law. A certificate in accordance with IDS-CS may only be issued in accordance with the following Rules of Procedure. The IDS certification is intended to enable companies to certifiy the IDS core components implemented by them and, thus, to prove their conformity with the IDSA Reference Architecture. Users of the IDS should be able to rely on the certification.
 
-Table of contents
-Scope of application
-Certification Body and Evaluation Facility
-The evaluation procedure
-The certification procedure
-The certificate
-Final clauses
-Annex 3 Outlook
+# Table of contents
 1. Scope of application
-§1.1 Scope of application
-The Rules of Procedure apply to evaluations and certifications of connectors in the IDS.
-The Conector Certification required for participating in the IDS serves the purpose of proving the trustworthiness of the developed components by evaluating the fulfillment of functional, security-relevant and procedural requirements. The certificate is the most important prerequisite for a component being used within the IDS.
-§1.2 Subject of the evaluation and certification
-The Connector Certification is interoperability and security oriented and aims at checking the implementation of a conector. 
-§1.3 Relationship to DIN EN ISO/IEC 17065 and 27001
-These Rules of Procedure are a certification program in the sense of ISO/IEC 17065.
-The connectors are products according to ISO/IEC 17065.
 2. Certification Body and Evaluation Facility
-§2.1 Certification Body
-The IDS Certification is carried out by an independent and technically suitable Certification Body. The Certification Body shall carry out its activities in a non-discriminatory and impartial manner.
-The Certification Body may be a legal entity or a separate part of a legal entity.
-The Certification Body must have the financial stability and resources necessary for the activity.
-The Certification Body shall ensure the confidentiality of information on and arising from the certification procedures.
-The Certification Body may subcontract external evaluators to conduct the assessment of the evaluation report issued by the evaluation facilities.
-In the event of a positive evaluation, the Certification Body issues a certificate to the Applicant.
-§ 2.2 Certifier
-Certifiers are natural persons who carry out the assessment of the evaluation for a Certification Body. The activity of the certifier may be carried out through the collaboration of several natural persons. In this case it is sufficient if the technical requirements according to paragraphs 2 to 5 are fulfilled by the persons concerned as a group. The personal requirements according to paragraphs 4 and 7 must be fulfilled by each person.
-Certifiers shall demonstrate sufficient professional competence for the assessments they carry out.
-A university degree or equivalent qualification is required for the certification activity.
-The certifier must have sufficient knowledge in the areas relevant for certification. In particular, the certifier shall have sufficient knowledge for certification in the following areas:
-a. technical requirements for data security;
-b. ISO/IEC 270xy standards (or equivalent);
-c. ISO/IEC 15408 standard (or equivalent);
-d. IDS Certification procedure;
-e. IDSA reference architecture.
-Sufficient experience for certification requires at least four years (full-time equivalent) experience in the field of information technology and at least two years (full-time equivalent) experience as a certifier or at least four years (full-time equivalent) experience as an evaluator of products and/or organizations.
-Certifiers must have the reliability required to perform their duties properly based on their personal characteristics, behavior, and skills.
-Certifiers must be independent within the meaning of § 2.7 paragraph 3. They shall carry out their duties in a non-discriminatory and impartial manner.
-The Certification Body shall ensure that the certifiers it employs meet the requirements set out in paragraphs 2 to 7.
-§2.3 Evaluation Facility
-Independent and technically suitable Evaluation Facilities can be commissioned by the Applicant to evaluate the connector of a manufacturer in order to receive an IDS certificate from the IDSA Certification Body.
-An Evaluation Facility is a legal entity or part of a legal entity that employs evaluators to conduct evaluations in accordance with these Rules of Procedure.
-The Evaluation Facility shall carry out its activities in a non-discriminatory and impartial manner in accordance with section 2.7 subsections 1 and 2 and shall have the necessary resources for the evaluation.
-The Evaluation Facility shall ensure the confidentiality of information on and arising from the evaluation procedures.
-The Evaluation Facility may use its own or external evaluators to carry out the evaluation. For external evaluators, the same competence requirements apply as in §2.4 for evaluators employed by the Evaluation Facility.
-The Evaluation Facility shall demonstrate and maintain adequate liability insurance.
-An Evaluation Facility may only carry out evaluations for the IDS if it has been recognized by the IDS Certification Body.
-§2.4 Evaluators
-Evaluators are natural persons who carry out evaluations for an Evaluation Facility in accordance with these Rules of Procedure.
-They must have sufficient competence to carry out the evaluations. This requires adequate training and experience.
-The evaluation requires a university degree or equivalent in the fields relevant to the evaluation. In particular, evaluators must have sufficient knowledge of the following subjects:
-a. IDS Certification procedure;
+3. The evaluation procedure
+4. The certification procedure
+5. The certificate
+6. Final clauses
+7. Annex 1 Outlook
+   
+# 1. Scope of application
+## §1.1 Scope of application
+1. The Rules of Procedure apply to evaluations and certifications of connectors in the IDS.
+2. The Conector Certification required for participating in the IDS serves the purpose of proving the trustworthiness of the developed components by evaluating the fulfillment of functional, security-relevant and procedural requirements. The certificate is the most important prerequisite for a component being used within the IDS.
+## §1.2 Subject of the evaluation and certification
+The Connector Certification is interoperability and security oriented and aims at checking the implementation of a conector. 
+## §1.3 Relationship to DIN EN ISO/IEC 17065 and 27001
+1. These Rules of Procedure are a certification program in the sense of ISO/IEC 17065.
+2. The connectors are products according to ISO/IEC 17065.
+# 2. Certification Body and Evaluation Facility
+## §2.1 Certification Body
+1. The IDS Certification is carried out by an independent and technically suitable Certification Body. The Certification Body shall carry out its activities in a non-discriminatory and impartial manner.
+2. The Certification Body may be a legal entity or a separate part of a legal entity.
+3. The Certification Body must have the financial stability and resources necessary for the activity.
+4. The Certification Body shall ensure the confidentiality of information on and arising from the certification procedures.
+5. The Certification Body may subcontract external evaluators to conduct the assessment of the evaluation report issued by the evaluation facilities.
+6. In the event of a positive evaluation, the Certification Body issues a certificate to the Applicant.
+## § 2.2 Certifier
+1. Certifiers are natural persons who carry out the assessment of the evaluation for a Certification Body. The activity of the certifier may be carried out through the collaboration of several natural persons. In this case it is sufficient if the technical requirements according to paragraphs 2 to 5 are fulfilled by the persons concerned as a group. The personal requirements according to paragraphs 4 and 7 must be fulfilled by each person.
+2. Certifiers shall demonstrate sufficient professional competence for the assessments they carry out.
+3. A university degree or equivalent qualification is required for the certification activity.
+4. The certifier must have sufficient knowledge in the areas relevant for certification. In particular, the certifier shall have sufficient knowledge for certification in the following areas:
+- a. technical requirements for data security;
+- b. ISO/IEC 270xy standards (or equivalent);
+- c. ISO/IEC 15408 standard (or equivalent);
+- d. IDS Certification procedure;
+- e. IDSA reference architecture.
+5. Sufficient experience for certification requires at least four years (full-time equivalent) experience in the field of information technology and at least two years (full-time equivalent) experience as a certifier or at least four years (full-time equivalent) experience as an evaluator of products and/or organizations.
+6. Certifiers must have the reliability required to perform their duties properly based on their personal characteristics, behavior, and skills.
+7. Certifiers must be independent within the meaning of § 2.7 paragraph 3. They shall carry out their duties in a non-discriminatory and impartial manner.
+8. The Certification Body shall ensure that the certifiers it employs meet the requirements set out in paragraphs 2 to 7.
+## §2.3 Evaluation Facility
+1. Independent and technically suitable Evaluation Facilities can be commissioned by the Applicant to evaluate the connector of a manufacturer in order to receive an IDS certificate from the IDSA Certification Body.
+2. An Evaluation Facility is a legal entity or part of a legal entity that employs evaluators to conduct evaluations in accordance with these Rules of Procedure.
+3. The Evaluation Facility shall carry out its activities in a non-discriminatory and impartial manner in accordance with section 2.7 subsections 1 and 2 and shall have the necessary resources for the evaluation.
+4. The Evaluation Facility shall ensure the confidentiality of information on and arising from the evaluation procedures.
+5. The Evaluation Facility may use its own or external evaluators to carry out the evaluation. For external evaluators, the same competence requirements apply as in §2.4 for evaluators employed by the Evaluation Facility.
+6. The Evaluation Facility shall demonstrate and maintain adequate liability insurance.
+7. An Evaluation Facility may only carry out evaluations for the IDS if it has been recognized by the IDS Certification Body.
+## §2.4 Evaluators
+1. Evaluators are natural persons who carry out evaluations for an Evaluation Facility in accordance with these Rules of Procedure.
+2. They must have sufficient competence to carry out the evaluations. This requires adequate training and experience.
+3. The evaluation requires a university degree or equivalent in the fields relevant to the evaluation. In particular, evaluators must have sufficient knowledge of the following subjects:
+- a. IDS Certification procedure;
 
-b. IDSA reference architecture;
+- b. IDSA reference architecture;
 
-c. Technical requirements for IT security;
+- c. Technical requirements for IT security;
 
-d. ISO/IEC 15408 standard (or equivalent);
+- d. ISO/IEC 15408 standard (or equivalent);
 
-e. Cryptography;
+- e. Cryptography;
 
-f. Vulnerability analysis and penetration tests;
+- f. Vulnerability analysis and penetration tests;
 
-g. Tool knowledge (in particular development tools, analysis, and attack tools).
+- g. Tool knowledge (in particular development tools, analysis, and attack tools).
 
-Evaluators must have at least four years (full-time equivalent) experience in the field of information technology and at least two years (full-time equivalent) experience in the field of testing IT products or information security. The activity as IT security officer or consultant in the aforementioned areas is not an activity within the meaning of sentence 1.
+4. Evaluators must have at least four years (full-time equivalent) experience in the field of information technology and at least two years (full-time equivalent) experience in the field of testing IT products or information security. The activity as IT security officer or consultant in the aforementioned areas is not an activity within the meaning of sentence 1.
 
-Evaluators must also have the necessary personal ability and reliability to carry out the evaluation. These include:
+5. Evaluators must also have the necessary personal ability and reliability to carry out the evaluation. These include:
 
-a. Ability to deal with conflicts;
-b. Ability to work as part of a team;
-c. Knowledge of the English language;
-d. Basic knowledge of project management
-Evaluators must be independent within the meaning of § 2.7 (3) and perform their duties in a non-discriminatory and impartial manner. They shall not evaluate a connector if there is a risk of a conflict of interest within the meaning of Art. 2.7 paragraph 4.
-§2.5 Approval
-The Certification Body and the Evaluation Facility shall demonstrate compliance with the requirements of these procedural rules, in particular, their technical suitability, within the scope of the commission or by means of recognition.
-The Certification Body must be commissioned by the International Data Spaces Association (IDSA) to carry out certifications in accordance with these Rules of Procedure.
-The Certification Body may only carry out certifications in accordance with these Rules of Procedure if a valid commission has been received.
-Evaluation Facilities require approval by the IDS Certification Body for performing evaluations in accordance with these procedural rules.
-The professional suitability of the Certification Body and the Evaluation Facilities only exists in the temporal and material scope of the assignment or approval. The temporal scope of the assignment of the Certification Body and the recognition of the Evaluation Facilities shall include the completion of the evaluation and certification procedure.
-§2.6 Relationship between Certification Body and Evaluation Facility
-The Certification Body and Evaluation Facilities may belong to the same organization. In this case, evaluators and certifiers must not stand in a disciplinary relationship to each other.
-The Certification Body has established a procedure for the recognition of Evaluation Facilities. Recognition shall be based on transparent, non-discriminatory and objective criteria. The Certification Body shall keep a list of the Evaluation Facilities it approved and make it permanently accessible to the public.
-The Certification Body shall stipulate that it will only accept certification applications if the evaluation is carried out by an approved Evaluation Facility.
-§2.7 Independence and impartiality. Risk of conflict of interest
-The Certification Body and Evaluation Facilities, certifiers and evaluators are independent if they are free from external and internal influence, in particular from financial influence.
-Certification Body, Evaluation Facilities, certifiers and evaluators shall be impartial if they carry out their certification and evaluation activities objectively in accordance with these Rules of Procedure and do not allow themselves to be guided by any irrelevant, in particular economic or personal, interests.
-Certification Body and Evaluation Facilities shall ensure the independence and impartiality of the certifiers and evaluators through appropriate organizational measures. They obligate the certifiers and evaluators contractually to maintain their independence. In meeting the requirements of sentence 1 and sentence 2, the following principles in particular shall be taken into account:
-a. Any kind of influence by other persons or organizations on the evaluations and their results is excluded.
-b. The income of certifiers and evaluators does not depend on the certification, assessment or evaluation results and the number of certifications, assessments or evaluations carried out.
-c. Certification and evaluation activities shall not be confused with other tasks which, by their nature or intensity, may give rise to a conflict of interest and, thus, have a negative impact on the quality of the certification or evaluation activity.
-d. Neither the certifiers and evaluators employed nor any other staff directly or indirectly involved in the certification or evaluation activity shall, at the time of certification or evaluation, have any relationship with the Applicant which goes beyond the scope of the evaluation.
-e. Certifiers and evaluators shall not have undertaken any consulting or other activity for the Applicant which might compromise independence within the last two years before certification or evaluation and shall not undertake such advice or activity two years after certification.
-Certification Body, Evaluation Facilities, certifiers and evaluators may not take action in the event of a conflict of interest. This applies in particular if the Certification Body, Evaluation Facilities, certifier or evaluators design, implement or offer connectors or parts of connectors within the last two years before or during the evaluation or certification procedure or advise providers of IDS services or agree to the future performance of such an activity with a provider of IDS services.
-§2.8 Costs
+- a. Ability to deal with conflicts;
+- b. Ability to work as part of a team;
+- c. Knowledge of the English language;
+- d. Basic knowledge of project management
+6. Evaluators must be independent within the meaning of § 2.7 (3) and perform their duties in a non-discriminatory and impartial manner. They shall not evaluate a connector if there is a risk of a conflict of interest within the meaning of Art. 2.7 paragraph 4.
+## §2.5 Approval
+1. The Certification Body and the Evaluation Facility shall demonstrate compliance with the requirements of these procedural rules, in particular, their technical suitability, within the scope of the commission or by means of recognition.
+2. The Certification Body must be commissioned by the International Data Spaces Association (IDSA) to carry out certifications in accordance with these Rules of Procedure.
+3. The Certification Body may only carry out certifications in accordance with these Rules of Procedure if a valid commission has been received.
+4. Evaluation Facilities require approval by the IDS Certification Body for performing evaluations in accordance with these procedural rules.
+5. The professional suitability of the Certification Body and the Evaluation Facilities only exists in the temporal and material scope of the assignment or approval. The temporal scope of the assignment of the Certification Body and the recognition of the Evaluation Facilities shall include the completion of the evaluation and certification procedure.
+## §2.6 Relationship between Certification Body and Evaluation Facility
+1. The Certification Body and Evaluation Facilities may belong to the same organization. In this case, evaluators and certifiers must not stand in a disciplinary relationship to each other.
+2. The Certification Body has established a procedure for the recognition of Evaluation Facilities. Recognition shall be based on transparent, non-discriminatory and objective criteria. The Certification Body shall keep a list of the Evaluation Facilities it approved and make it permanently accessible to the public.
+3. The Certification Body shall stipulate that it will only accept certification applications if the evaluation is carried out by an approved Evaluation Facility.
+## §2.7 Independence and impartiality. Risk of conflict of interest
+1. The Certification Body and Evaluation Facilities, certifiers and evaluators are independent if they are free from external and internal influence, in particular from financial influence.
+2. Certification Body, Evaluation Facilities, certifiers and evaluators shall be impartial if they carry out their certification and evaluation activities objectively in accordance with these Rules of Procedure and do not allow themselves to be guided by any irrelevant, in particular economic or personal, interests.
+3. Certification Body and Evaluation Facilities shall ensure the independence and impartiality of the certifiers and evaluators through appropriate organizational measures. They obligate the certifiers and evaluators contractually to maintain their independence. In meeting the requirements of sentence 1 and sentence 2, the following principles in particular shall be taken into account:
+- a. Any kind of influence by other persons or organizations on the evaluations and their results is excluded.
+- b. The income of certifiers and evaluators does not depend on the certification, assessment or evaluation results and the number of certifications, assessments or evaluations carried out.
+- c. Certification and evaluation activities shall not be confused with other tasks which, by their nature or intensity, may give rise to a conflict of interest and, thus, have a negative impact on the quality of the certification or evaluation activity.
+- d. Neither the certifiers and evaluators employed nor any other staff directly or indirectly involved in the certification or evaluation activity shall, at the time of certification or evaluation, have any relationship with the Applicant which goes beyond the scope of the evaluation.
+- e. Certifiers and evaluators shall not have undertaken any consulting or other activity for the Applicant which might compromise independence within the last two years before certification or evaluation and shall not undertake such advice or activity two years after certification.
+4. Certification Body, Evaluation Facilities, certifiers and evaluators may not take action in the event of a conflict of interest. This applies in particular if the Certification Body, Evaluation Facilities, certifier or evaluators design, implement or offer connectors or parts of connectors within the last two years before or during the evaluation or certification procedure or advise providers of IDS services or agree to the future performance of such an activity with a provider of IDS services.
+## §2.8 Costs
 The Certification Body and the Evaluation Facility may charge appropriate fees for their activities. The charges shall be laid down in the contract with the Applicant.
 
-3. The evaluation procedure
-§3.1 Contractual basis
-The evaluation procedure is based on a contract between the Applicant and the Evaluation Facility.
-The contract shall specify at least the following:
-a. the evaluation item with an indication of all relevant locations;
-b. the IDS certification criteria in the applicable version;
-c. these procedural rules as the procedural regulation governing evaluation and certification;
-d. the evaluation contract (scope of the evaluation, location of the evaluation, planned evaluation duration, evaluation report);
-e. the Applicant's obligations to cooperate.
-In the case of Component Certification, the description of the evaluation item shall specify in particular which components the component comprises. 
+# 3. The evaluation procedure
+## §3.1 Contractual basis
+1. The evaluation procedure is based on a contract between the Applicant and the Evaluation Facility.
+2. The contract shall specify at least the following:
+- a. the evaluation item with an indication of all relevant locations;
+- b. the IDS certification criteria in the applicable version;
+- c. these procedural rules as the procedural regulation governing evaluation and certification;
+- d. the evaluation contract (scope of the evaluation, location of the evaluation, planned evaluation duration, evaluation report);
+- e. the Applicant's obligations to cooperate.
+- f. The description of the evaluation item shall specify in particular which components the component comprises. 
 
-§3.2 The Applicant's obligations to cooperate
-The Applicant shall carry out the cooperation activities required for proper evaluation and certification or, if applicable, those contractually agreed at his own expense.
-In particular, the Applicant shall be obliged to provide the Evaluation Facility with or allow inspection of sufficient documentation on the evaluation item.
-The Applicant assures the Evaluation Facility and Certification Body that the measures specified in the documentation have been fully implemented.
-Where the Applicant seeks recognition of existing certificates for his connector, he shall communicate the request for recognition before the start of the evaluation, specifying the exact designation of the certificate to be recognized and the component for which recognition is sought, and submit the documents relevant for the assessment of recognition.
-§3.3 Procedure of the evaluation
-The evaluation shall be based on the clearly defined description of the evaluation item in the contract. Technical tests shall be carried out.
-The evaluation covers all requirements of the IDS for the selected Module.
-The evaluation should be carried out on a sample basis. In relation to a request (e.g. secure passwords), a sample of activities is to be evaluated in order to fulfill a requirement (e.g. password length). With regard to the implementation of individual activities, a sample of elements (e.g. individual passwords) shall be evaluated.
+## §3.2 The Applicant's obligations to cooperate
+1. The Applicant shall carry out the cooperation activities required for proper evaluation and certification or, if applicable, those contractually agreed at his own expense.
+2. In particular, the Applicant shall be obliged to provide the Evaluation Facility with or allow inspection of sufficient documentation on the evaluation item.
+3. The Applicant assures the Evaluation Facility and Certification Body that the measures specified in the documentation have been fully implemented.
+4. Where the Applicant seeks recognition of existing certificates for his connector, he shall communicate the request for recognition before the start of the evaluation, specifying the exact designation of the certificate to be recognized and the component for which recognition is sought, and submit the documents relevant for the assessment of recognition.
+## §3.3 Procedure of the evaluation
+1. The evaluation shall be based on the clearly defined description of the evaluation item in the contract. Technical tests shall be carried out.
+2. The evaluation covers all requirements of the IDS for the selected Module.
+3. The evaluation should be carried out on a sample basis. In relation to a request (e.g. secure passwords), a sample of activities is to be evaluated in order to fulfill a requirement (e.g. password length). With regard to the implementation of individual activities, a sample of elements (e.g. individual passwords) shall be evaluated.
 The sample shall be selected in such a way that the evaluation of the selected activities or elements provides an indication of the compliance with the requirement.
-§3.4 Recognition of certificates
+## §3.4 Recognition of certificates
 The Certification Body shall recognize relevant certificates for the object of evaluation or individual components thereof. The evaluation of the covered criteria for the component named in the certificate is then not necessary. However, it is necessary to evaluate criteria not covered by this certificate as well as the interaction of the recognized component with other components, in particular the interfaces relevant to that interaction.
 If the Applicant seeks recognition, the Evaluation Facility shall evaluate without delay whether and to what extent recognition can be granted.
 The Evaluation Facility shall ask the Certification Body for a preliminary ruling on the recognition of certificates. The request shall be accompanied at least by the particulars and documents referred to in § 3.2 (4).
-§3.5 Assessment and evaluation report
-On the basis of the evaluation, the evaluator shall prepare an assessment of the operational environment's or the component's compliance with the requirements of the IDS in relation to a specific Trust and Assurance Level. This requires both an assessment of the fulfillment of the individual requirements of the IDS and of the fulfillment of the requirements of the IDS as a whole, each relating to a specific Trust and Assurance Level.
-If individual organizational requirements of the IDS Certification for the Trust Level applied for are not met, these may be offset by other measures if the operational environment or the component thereby achieves the overall level of protection of the Trust Level applied for. If the Evaluation Facility accepts such compensation, this shall be justified separately to the Certification Body in the statement of the overall result.
+## §3.5 Assessment and evaluation report
+On the basis of the evaluation, the evaluator shall prepare an assessment of the connector's compliance with the requirements of the IDS in relation to a specific Module. 
 The Evaluation Facility shall draw up an evaluation report on the basis of the evaluation. The evaluation report shall include at least the following information:
 a. the subject matter of the evaluation;
 b. a description of the timing and scope of the evaluation, including the locations and premises where it was conducted;
 c. a brief description (a few sentences or keywords) of the implementation of each IDS requirement;
-d. the reasoned assessment regarding the fulfillment or non-compliance of the individual IDS requirements for the Trust Level concerned;
+d. the reasoned assessment regarding the fulfillment or non-compliance of the individual IDS requirements for the Module concerned;
 e. the measures by which the Evaluation Facility has verified the fulfillment, in particular information on the evaluation method pursuant to § 3.3 paras. 2 to 6 and - if necessary for understanding - a justification for its use;
 f. the indication of the certificates to be recognized as well as a statement on the evaluation of the interaction of the components;
 g. a justification of the equivalence of certificates to be recognized within the meaning of § 4.5.
