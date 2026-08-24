@@ -9,14 +9,13 @@ Certification according to the International Data Spaces Certification Scheme (I
 4. The certification procedure
 5. The certificate
 6. Final clauses
-7. Annex 1 Outlook
    
 # 1. Scope of application
 ## §1.1 Scope of application
 1. The Rules of Procedure apply to evaluations and certifications of connectors in the IDS.
-2. The Conector Certification required for participating in the IDS serves the purpose of proving the trustworthiness of the developed components by evaluating the fulfillment of functional, security-relevant and procedural requirements. The certificate is the most important prerequisite for a component being used within the IDS.
+2. The Connector Certification required for participating in the IDS serves the purpose of proving the trustworthiness of the developed components by evaluating the fulfillment of functional, security-relevant and procedural requirements. The certificate is the most important prerequisite for a component being used within the IDS.
 ## §1.2 Subject of the evaluation and certification
-The Connector Certification is interoperability and security oriented and aims at checking the implementation of a conector. 
+The Connector Certification is interoperability and security oriented and aims at checking the implementation of a connector. 
 ## §1.3 Relationship to DIN EN ISO/IEC 17065 and 27001
 1. These Rules of Procedure are a certification program in the sense of ISO/IEC 17065.
 2. The connectors are products according to ISO/IEC 17065.
@@ -26,7 +25,7 @@ The Connector Certification is interoperability and security oriented and aims a
 2. The Certification Body may be a legal entity or a separate part of a legal entity.
 3. The Certification Body must have the financial stability and resources necessary for the activity.
 4. The Certification Body shall ensure the confidentiality of information on and arising from the certification procedures.
-5. The Certification Body may subcontract external evaluators to conduct the assessment of the evaluation report issued by the evaluation facilities.
+5. The Certification Body may subcontract external certifiers to conduct the assessment of the evaluation report issued by the evaluation facilities.
 6. In the event of a positive evaluation, the Certification Body issues a certificate to the Applicant.
 ## § 2.2 Certifier
 1. Certifiers are natural persons who carry out the assessment of the evaluation for a Certification Body. The activity of the certifier may be carried out through the collaboration of several natural persons. In this case it is sufficient if the technical requirements according to paragraphs 2 to 5 are fulfilled by the persons concerned as a group. The personal requirements according to paragraphs 4 and 7 must be fulfilled by each person.
@@ -34,10 +33,8 @@ The Connector Certification is interoperability and security oriented and aims a
 3. A university degree or equivalent qualification is required for the certification activity.
 4. The certifier must have sufficient knowledge in the areas relevant for certification. In particular, the certifier shall have sufficient knowledge for certification in the following areas:
 - a. technical requirements for data security;
-- b. ISO/IEC 270xy standards (or equivalent);
-- c. ISO/IEC 15408 standard (or equivalent);
-- d. IDS Certification procedure;
-- e. IDSA reference architecture.
+- b. IDS Certification procedure;
+- c. IDSA reference architecture.
 5. Sufficient experience for certification requires at least four years (full-time equivalent) experience in the field of information technology and at least two years (full-time equivalent) experience as a certifier or at least four years (full-time equivalent) experience as an evaluator of products and/or organizations.
 6. Certifiers must have the reliability required to perform their duties properly based on their personal characteristics, behavior, and skills.
 7. Certifiers must be independent within the meaning of § 2.7 paragraph 3. They shall carry out their duties in a non-discriminatory and impartial manner.
@@ -119,10 +116,10 @@ The Certification Body and the Evaluation Facility may charge appropriate fees f
 ## §3.3 Procedure of the evaluation
 1. The evaluation shall be based on the clearly defined description of the evaluation item in the contract. Technical tests shall be carried out.
 2. The evaluation covers all requirements of the IDS for the selected Module.
-3. The evaluation should be carried out on a sample basis. In relation to a request (e.g. secure passwords), a sample of activities is to be evaluated in order to fulfill a requirement (e.g. password length). With regard to the implementation of individual activities, a sample of elements (e.g. individual passwords) shall be evaluated.
-The sample shall be selected in such a way that the evaluation of the selected activities or elements provides an indication of the compliance with the requirement.
+3. The evaluation should be carried out on a sample basis. In relation to a request (e.g. catalog data), a sample of activities is to be evaluated in order to fulfill a requirement (e.g. catalog data). With regard to the implementation of individual activities, a sample of elements (e.g. catalog data) shall be evaluated.
+4. The sample shall be selected in such a way that the evaluation of the selected activities or elements provides an indication of the compliance with the requirement.
 ## §3.4 Recognition of certificates
-The Certification Body shall recognize relevant certificates for the object of evaluation or individual components thereof. The evaluation of the covered criteria for the component named in the certificate is then not necessary. However, it is necessary to evaluate criteria not covered by this certificate as well as the interaction of the recognized component with other components, in particular the interfaces relevant to that interaction.
+The Certification Body shall recognize relevant certificates for the object of evaluation or individual connectors thereof. The evaluation of the covered criteria for the connector named in the certificate is then not necessary. However, it is necessary to evaluate criteria not covered by this certificate as well as the interaction of the recognized connector with other components, in particular the interfaces relevant to that interaction.
 If the Applicant seeks recognition, the Evaluation Facility shall evaluate without delay whether and to what extent recognition can be granted.
 The Evaluation Facility shall ask the Certification Body for a preliminary ruling on the recognition of certificates. The request shall be accompanied at least by the particulars and documents referred to in § 3.2 (4).
 ## §3.5 Assessment and evaluation report
@@ -132,166 +129,140 @@ a. the subject matter of the evaluation;
 b. a description of the timing and scope of the evaluation, including the locations and premises where it was conducted;
 c. a brief description (a few sentences or keywords) of the implementation of each IDS requirement;
 d. the reasoned assessment regarding the fulfillment or non-compliance of the individual IDS requirements for the Module concerned;
-e. the measures by which the Evaluation Facility has verified the fulfillment, in particular information on the evaluation method pursuant to § 3.3 paras. 2 to 6 and - if necessary for understanding - a justification for its use;
+e. the measures by which the Evaluation Facility has verified the fulfillment, in particular information on the evaluation method and - if necessary for understanding - a justification for its use;
 f. the indication of the certificates to be recognized as well as a statement on the evaluation of the interaction of the components;
 g. a justification of the equivalence of certificates to be recognized within the meaning of § 4.5.
-h. the overall result with regard to the fulfillment or non-fulfillment of the IDS requirements for a specific Trust Level;
+h. the overall result with regard to the fulfillment or non-fulfillment of the IDS requirements for a specific Module;
 i. the justification of the overall result;
 j. a list of the reviewed documentation;
 k. the declaration of the Applicant in accordance with section 3.2(3);
 l. the declaration of the evaluator that he has met the requirements of these Rules of Procedure for independence and impartiality and that there is no cause for concern of bias.
 The evaluation report may contain additional hints. The hints may also indicate whether and through which measures the Applicant is still able to meet IDS requirements that have not yet been achieved.
-The evaluation item shall be described in detail in the evaluation report. In particular, the function of the operational environments or components must be described and delimited in detail.
+The evaluation item shall be described in detail in the evaluation report. In particular, the function of the connectors must be described and delimited in detail.
 The name of the evaluation item may be given in an appendix to the evaluation report, but in any case it must be unambiguous.
 The Evaluation Facility submits a draft of the evaluation report to the Certification Body for comments. The final version of the evaluation report may only be submitted to the Applicant after the Certification Body has given its comments.
 The Applicant may only make the evaluation report available to third parties in full text, stating the date of issue, and pass it on after written approval by the Evaluation Facility.
 3.6 Change Certification
-After a component has been certified, the applicant must inform the Certification Body (Assurance Level 1-3) and an Evaluation Facility (Assurance Level 2 & 3) of any changes to this component that shall be deployed in an IDS context.
-To start the change certification process, the applicant must report the changes and submit an impact assessment to the Certification Body (Assurance Level 1-3) and Evaluation Facilitity (Assurance Level 2&3) (based on a provided template).
-During a change certification, the Certification Body and Evaluation Facility (for Assurance Level 2&3) must determine whether the certified operational environment or component continues to meet the IDS requirements of the originally certified Trust Level after changes have been made.
-For small changes, e.g. bug fixes or security patches for components, the change can be certified with minimal effort in form of a maintenance certification. For larger changes, e.g. to management processes of an organization or larger source code modifications for a component, a re-certification must be conducted.
-For a maintenance certification, the Evaluation Facility evaluates the documented changes to determine whether they may result in a violation of the certified IDS requirements. If that is the case, a deeper evaluation in form of a re-certification is required. The above requirements for evaluation apply accordingly except for § 3.3.
-For a re-certification, all above requirements for evaluation apply accordingly. The scope of the re-certifications shall be such that the changes to the operational environments or components made since the last evaluation are checked. Appropriate sampling shall be used to determine whether the operational environment or component as a whole continues to meet the IDS requirements. The evaluation is conducted with the methodology of the originally certified Assurance Level. By default, the component or operational environment will be assessed using the same certification version (i.e., certification criteria catalog, IDS Reference Testbed version, test specifications, ...) as for the first evaluation. A newer certification version may be requested according to 9.
-The Applicant is obliged to cooperate in accordance with § 3.2. In particular, it shall prepare documentation of the changes to the technical and organizational measures in accordance with § 3.2 Para. 2.
-The Evaluation Facility prepares an evaluation report and sends it to the Certification Body.
-After successful evaluation of the report, the Certification Body issues a new certificate for the new version of the component. The original validity of the previous certificate will be maintained for the new certificate, i.e. the validity will not be extended.
-Change Certifications can also be carried out at the Applicant's request when a new certification version (i.e., certification criteria catalog, IDS Reference Testbed version, test specifications, ...) is released. Likewise an Applicant may request to use a newer certification version for a re-certification (according to 5.) in case of changes to the component. In this case, the change certification will (additionally) focus on the new or changed test cases or criteria. The original validity of the previous certificate will be maintained for the new certificate.
-Alternatively to a change certification, the applicant has also the possibility to apply for a renewal certification (see §5.3). This is conducted according to the current certification version (certification criteria and IDS reference testbed version). If the evaluation is successful, the Certification Body issues a new certificate with a validity of two years.
-4. The certification procedure
-§4.1 Contractual basis
-The certification procedure is based on a contract between the Applicant and the Certification Body.
-The contract shall specify at least the following:
+1. After a connector has been certified, the applicant must inform the Certification Body and an Evaluation Facility of any changes to this connector that shall be deployed in an IDS context.
+2. To start the change certification process, the applicant must report the changes in a written manner to the Certification Body and Evaluation Facilitity.
+3. During a change certification, the Certification Body and Evaluation Facility must determine whether the certified connector continues to meet the IDS requirements of the originally certified Module after changes have been made.
+4. For small changes, e.g. bug fixes or security patches, the change can be certified with minimal effort in form of a maintenance certification. For larger changes, e.g. larger source code modifications for a connector, a re-certification must be conducted.
+5. For a maintenance certification, the Evaluation Facility evaluates the documented changes to determine whether they may result in a violation of the certified IDS requirements. If that is the case, a deeper evaluation in form of a re-certification is required. The above requirements for evaluation apply accordingly except for § 3.3.
+6. For a re-certification, all above requirements for evaluation apply accordingly. The scope of the re-certifications shall be such that the changes to the connector made since the last evaluation are checked. Appropriate sampling shall be used to determine whether the connector as a whole continues to meet the IDS requirements. The evaluation is conducted with the methodology of the originally certified Module. By default, the connector will be assessed using the same certification version (i.e., certification criteria catalog, Testbed version, test specifications, ...) as for the first evaluation. A newer certification version may be requested according to 9.
+7. The Applicant is obliged to cooperate in accordance with § 3.2. In particular, it shall prepare documentation of the changes to the technical measures in accordance with § 3.2 Para. 2.
+8. The Evaluation Facility prepares an evaluation report and sends it to the Certification Body.
+9. After successful evaluation of the report, the Certification Body issues a new certificate for the new version of the connector. The original validity of the previous certificate will be maintained for the new certificate, i.e. the validity will not be extended.
+10. Change Certifications can also be carried out at the Applicant's request when a new certification version (i.e., certification criteria catalog, Testbed version, test specifications, ...) is released. Likewise an Applicant may request to use a newer certification version for a re-certification (according to 5.) in case of changes to the connector. In this case, the change certification will (additionally) focus on the new or changed test cases or criteria. The original validity of the previous certificate will be maintained for the new certificate.
+# 4. The certification procedure
+## §4.1 Contractual basis
+1. The certification procedure is based on a contract between the Applicant and the Certification Body.
+2. The contract shall specify at least the following:
 a. the certification item with details of all relevant locations;
 b. the IDS certification criteria in the applicable version;
-c. the Evaluation Facility which is to carry out the evaluation;
-d. these procedural rules as the procedural regulation applicable to the certification;
-e. the certification application including details of the Trust and Assurance Level applied for;
-f. the Applicant's obligations to cooperate.
-§4.2 Requirements for certification
-The granting of the certificate requires an evaluation of the participating organization's operational environment or component by an Evaluation Facility in accordance with these Rules of Procedure. The Applicant shall designate the Evaluation Facility.
-Recognized Evaluation Facilities are listed in a list maintained by the Certification Body within the meaning of § 2.6.
-After signing of the contract, the Certification Body appoints a responsible certifier to the Applicant and the Evaluation Facility.
-The Evaluation Facility appoints to the Certification Body the responsible (principal) evaluator whom it has entrusted with the evaluation.
-The certifier coordinates the evaluation object, the scope, the duration and the schedule of the evaluation with the responsible evaluator and the Applicant. The coordination shall also cover intended recognition of existing certificates.
-The Certification Body may reserve the right to participate in the on-site evaluation in whole or in part. However, it may not carry out any evaluation procedures or intervene in the evaluation process.
-§4.3 Assessment of the evaluation
-By evaluating the evaluation report, the Certification Body determines whether the evaluation was conducted properly, in particular whether it meets the requirements of these procedural rules, and whether the participating organization or component meets the IDS requirements at the Trust Level applied for.
+c. these procedural rules as the procedural regulation applicable to the certification;
+d. the certification application including details of the Module applied for;
+e. the Applicant's obligations to cooperate.
+## §4.2 Requirements for certification
+1. The granting of the certificate requires an evaluation of the participating connector by an Evaluation Facility in accordance with these Rules of Procedure. The Applicant shall designate the Evaluation Facility.
+2. Recognized Evaluation Facilities are listed in a list maintained by the Certification Body within the meaning of § 2.6.
+3. After signing of the contract, the Certification Body appoints a responsible certifier to the Applicant and the Evaluation Facility.
+4. The Evaluation Facility appoints to the Certification Body the responsible (principal) evaluator whom it has entrusted with the evaluation.
+5. The certifier coordinates the evaluation object, the scope, the duration and the schedule of the evaluation with the responsible evaluator and the Applicant. The coordination shall also cover intended recognition of existing certificates.
+6. The Certification Body may reserve the right to participate in the evaluation in whole or in part. However, it may not carry out any evaluation procedures or intervene in the evaluation process.
+## §4.3 Assessment of the evaluation
+By evaluating the evaluation report, the Certification Body determines whether the evaluation was conducted properly, in particular whether it meets the requirements of these procedural rules, and whether the participating connector meets the IDS requirements at the Module applied for.
 The Certification Body may request further explanations or additions to the evaluation report from the Evaluation Facility.
 In consultation with the Evaluation Facility, the Certification Body may collect information and evidence from the Applicant insofar as this is necessary for the certification decision.
-§4.4 Recognition of IDS certificates
-The Certification Body shall recognize IDS certificates for components of the participating organization or component to the extent of their validity and Trust Level, provided that they have been issued in accordance with these Rules of Procedure.
-In the event of recognition, the certificate may be issued for the full period of validity in accordance with § 5.3. The certificate shall be revoked if a recognized certificate expires. This shall not apply if the relevant component is immediately re-certified and the certificate can be recognized, or if the component is immediately included in the certificate for the operational environment or component by a change certification according to § 4.9.
-The Certification Body shall monitor the validity of the recognized certificates. It shall inform the Applicant in good time of the imminent expiry of the validity periods of recognized certificates.
-§4.5 Recognition of other certificates
-The Certification Body may recognize other certificates if they are materially and procedurally equivalent to an IDS certificate. The Certification Body determines the Trust and Assurance Level at which the certificate is recognized.
-A material equivalence exists if the other certificate is based on requirements that are comparable to or exceed those of the IDS with regard to the Trust Level.
+## §4.4 Recognition of IDS certificates
+1. The Certification Body shall recognize IDS certificates for connectors of the participating connector to the extent of their validity and Module, provided that they have been issued in accordance with these Rules of Procedure.
+2. In the event of recognition, the certificate may be issued for the full period of validity in accordance with § 5.3. The certificate shall be revoked if a recognized certificate expires. This shall not apply if the relevant connector is immediately included in the certificate for the connector by a change certification according to § 4.9.
+3. The Certification Body shall monitor the validity of the recognized certificates. 
+## §4.5 Recognition of other certificates
+1. The Certification Body may recognize other certificates if they are materially and procedurally equivalent to an IDS certificate. The Certification Body determines the Module for which the certificate is recognized.
+A material equivalence exists if the other certificate is based on requirements that are comparable to or exceed those of the IDS with regard to the Module.
 A procedural equivalence exists if the other certificate was granted in a certification procedure that offers a comparable guarantee for the proper evaluation and certification in accordance with these procedural rules.
 The following certificates are generally considered to be materially and procedurally equivalent:
-certificates according to ISO 27001;
-certificates according to ISO 27001 based on IT Grundschutz;
-certificates according to ISO 15408;
-certificates according to IEC 62443.
-The Certification Body shall justify the recognition, in particular with regard to the Trust and Assurance Level.
+- certificates according to IEC 62443.
+The Certification Body shall justify the recognition, in particular with regard to the Module.
 In the event of recognition, § 4.4 paras. 2 to 3 apply accordingly.
-§4.6 Decision of the Certification Body
-The Certification Body shall decide on the award of the certificate on the basis of the evaluation report, the assessment by the certifier and, if necessary, further findings.
-The certificate must be issued to the extent requested if the operational environment or component fulfills the corresponding IDS requirements.
-In the event of deviations from the requirements, the certificate for the operational environments may be issued provisionally for up to six months if this is linked to a fixed catalog of measures whose implementation is checked. Significant deviations do not permit provisional certification. A principle granting of the certificate for operational environments or components with restrictions is not possible.
-If an operational environment or component does not meet the IDS requirements, the issuance of the certificate shall be refused.
-Reasons shall be given where the decision falls short of the application.
-The certification decision shall be announced to the Applicant. The certification decision shall contain all information on recognized certificates and the information pursuant to § 4.5 para. 5.
-§4.7 Rectification of defects
-The Certification Body may give the Applicant the opportunity, before or after a decision to grant the certificate has been taken, to rectify the situation and to modify his application for certification.
-If the operational environment or the component fulfills the IDS requirements according to the original or modified certification application due to the subsequent improvement, the certificate must be issued accordingly.
-§4.8 Objection
-The Applicant may lodge an appeal with the Certification Body against a decision by which he is adversely affected. The contradiction must be substantiated. A complaint exists if the certification decision falls short of the application.
-The objection must be submitted in text form within a period of 4 weeks after receipt of the certification decision.
-The Certification Body shall verify whether the objection is justified.
-If the objection is directed against the evaluation or the findings of the Evaluation Facility, the Certification Body shall inform the Evaluation Facility of the objection and obtain a statement from the Evaluation Facility.
-If the objection is justified, the Certification Body shall amend the certification decision. If the Certification Body does not remedy the objection, this shall be justified.
+## §4.6 Decision of the Certification Body
+1. The Certification Body shall decide on the award of the certificate on the basis of the evaluation report, the assessment by the certifier and, if necessary, further findings.
+2. The certificate must be issued to the extent requested if the connector fulfills the corresponding IDS requirements.
+3. A principle granting of the certificate connectors with restrictions is not possible.
+4. If a connector does not meet the IDS requirements, the issuance of the certificate shall be refused.
+5. Reasons shall be given where the decision falls short of the application.
+6. The certification decision shall be announced to the Applicant. The certification decision shall contain all information on recognized certificates and the information pursuant to § 4.5 para. 5.
+## §4.7 Rectification of defects
+1. The Certification Body may give the Applicant the opportunity, before or after a decision to grant the certificate has been taken, to rectify the situation and to modify his application for certification.
+2. If the connector fulfills the IDS requirements according to the original or modified certification application due to the subsequent improvement, the certificate must be issued accordingly.
+## §4.8 Objection
+1. The Applicant may lodge an appeal with the Certification Body against a decision by which he is adversely affected. The contradiction must be substantiated. A complaint exists if the certification decision falls short of the application.
+2. The objection must be submitted in text form within a period of 4 weeks after receipt of the certification decision.
+3. The Certification Body shall verify whether the objection is justified.
+4. If the objection is directed against the evaluation or the findings of the Evaluation Facility, the Certification Body shall inform the Evaluation Facility of the objection and obtain a statement from the Evaluation Facility.
+5. If the objection is justified, the Certification Body shall amend the certification decision. If the Certification Body does not remedy the objection, this shall be justified.
 The decision on the opposition, including the statement of grounds, shall be communicated to the Applicant in text form.
-§4.9 Change certification
-At the Applicant's request, the Certification Body may issue a certificate for a new version of the component or with regards to a new certification version by means of a change certification. The original validity of the previous certificate will be maintained for the new certificate.
-A change certification can be carried out as a maintenance certification or a re-certification depending on the scope of the changes. The provisions on the certification procedure shall apply accordingly to the change certification procedure. Section 3.6 shall apply to evaluation within the framework of change certification.
-5. The certificate
-§5.1 Issue and content of the certificate
-The Certification Body shall issue a certificate to the Applicant in accordance with the certification decision.
-The certificate shall contain the following information:
-a. the Applicant, if applicable as a short designation;
-b. the certification item, if applicable as a short designation;
-c. the Certification Body;
-d. the designation of the applied version of the IDS certification criteria, if applicable as a short designation;
-e. the Trust and Assurance Level;
-f. a unique certificate number;
-g. the period of validity of the certificate;
-h. an appendix containing the information pursuant to para. 3;
-i. the IDS certification mark.
-The annex to the certificate contains the following information:
-a. the description of the certification item;
-b. the unique designation of the Applicant;
-c. the unique designation of the certification;
-d. the designation of these procedural rules as the authoritative procedural basis;
-e. the designation of the applied rules and regulations of the Certification Body;
-f. the unambiguous designation of the evaluation report and the Evaluation Facility;
-g. the exact designation of the applied version of the IDS;
-h. the evaluation result.
-The certificate or annex may contain the following additional elements:
-a. Company logo of the Certification Body;
-b. the signature of an authorized representative of the Certification Body;
-c. notes from the Certification Body.
-If the certificate mark in Annex 1) is used, the requirements in paras. 2 and 3 shall be deemed to have been complied with.
-The Certification Body assigns a unique certificate number for each certificate. It consists of the unique name of the Certification Body, the designation IDS-CS and a unique number within the Certification Body (example: IDSCert-IDS-CS-0001).
-§5.2 Publication of the certificate
-The Certification Body maintains a list of certificates and publishes the certificate together with the annex during the validity period and for a further ten years on a publicly accessible website. The certificates must be easily accessible.
+## §4.9 Change certification
+1. At the Applicant's request, the Certification Body may issue a certificate for a new version of the connector or with regards to a new certification version by means of a change certification. The original validity of the previous certificate will be maintained for the new certificate.
+2. A change certification can be carried out as a maintenance certification or a re-certification depending on the scope of the changes. The provisions on the certification procedure shall apply accordingly to the change certification procedure. Section 3.6 shall apply to evaluation within the framework of change certification.
+# 5. The certificate
+## §5.1 Issue and content of the certificate
+1. The Certification Body shall issue a certificate to the Applicant in accordance with the certification decision.
+2. The certificate shall contain the following information:
+- a. the Applicant, if applicable as a short designation;
+- b. the certification item, if applicable as a short designation;
+- c. the Certification Body;
+- d. the designation of the applied version of the IDS certification criteria, if applicable as a short designation;
+- e. the Module;
+- f. a unique certificate number;
+- g. the period of validity of the certificate;
+- h. an appendix containing the information pursuant to para. 3;
+- i. the IDS certification mark.
+3. The annex to the certificate contains the following information:
+- a. the description of the certification item;
+- b. the unique designation of the Applicant;
+- c. the unique designation of the certification;
+- d. the designation of these procedural rules as the authoritative procedural basis;
+- e. the designation of the applied rules and regulations of the Certification Body;
+- f. the unambiguous designation of the evaluation report and the Evaluation Facility;
+- g. the exact designation of the applied version of the IDS;
+- h. the evaluation result.
+4. The certificate or annex may contain the following additional elements:
+- a. Company logo of the Certification Body;
+- b. the signature of an authorized representative of the Certification Body;
+- c. notes from the Certification Body.
+5. The Certification Body assigns a unique certificate number for each certificate. It consists of the designation IDS-CON, the specific Module and a unique number within the Certification Body (example: IDS-CON-M1-0001).
+## §5.2 Publication of the certificate
+1. The Certification Body maintains a list of certificates and publishes the certificate together with the annex during the validity period and for a further ten years on a publicly accessible website. The certificates must be easily accessible.
+## §5.3 Period of validity. Renewal certification
+1. The certificate is issued for a maximum period of validity of two years. The period begins with the date of issue stated in the certificate.
+2. Renewal of a certificate after its expiration is not foreseen under the current certification scheme.
+## §5.4 Monitoring
+There is no surveillance audit as part of Connector Certification.
+## §5.5 Certification mark
+1. The issuance of the certificate entitles the Applicant to use the certification mark for certified connector in accordance with the certification mark conditions of the certification mark holder.
+2. The certification mark may only be used during the validity period of the certificate.
+3. The mark shall contain only the following information:
+- a. the graphical mark;
+- b. the certificate number;
+- c. the period of validity;
+- d. the designation IDS indicating the Module of certification;
+- e. the website on which the certificate is published.
+4. The Certification Body issues the certification mark and makes it available to the Applicant graphically in electronic form.
+## §5.6 Restriction, Suspension or Revocation of the Certificate
+1. The Applicant may at any time request the restriction, suspension or revocation of the certificate. The request shall be complied with unless there are serious reasons for not doing so.
+2. The Applicant is obliged to inform the Certification Body in detail without delay if he becomes aware that the requirements for granting the certificate have not been met or no longer exist.
+3. If the Certification Body has reason to believe, on the basis of notification by the Applicant, the Evaluation Facility or a third party or due to other circumstances, that the requirements for granting the certificate have not been met or no longer exist, it shall immediately take the necessary measures to determine whether the requirements are met. In particular, the Certification Body may determine that an intermediate evaluation (in accordance with § 3.6) is necessary to maintain the certificate.
+4. If the Certification Body determines that an intermediate evaluation is necessary, it shall set the Applicant a reasonable period of time to carry out the intermediate evaluation. The Certification Body shall clearly describe to the Applicant under which aspects doubts exist as to compliance with the certification requirements. The time limit may be extended at the request of the Applicant.
+5. The Certification Body may suspend the certificate for the duration of the assessment procedure. In the case of suspension, the certification mark shall not be used. The Applicant shall inform its customers of the suspension.
+6. The Certification Body shall take the necessary measures to ensure compliance with the IDS on the basis of its findings, if necessary on the basis of the intermediate evaluation report. It can restrict, suspend, or revoke the certificate. The Certification Body shall give the Applicant the opportunity to comment before taking its decision. The decision shall state the reasons on which it is based and shall be communicated to the Applicant in text form. At the request of the Applicant, a change certification may be conducted.
+7. The certificate shall be revoked if
+- a. the Certification Body determines that the prerequisites for granting the certificate were not met or no longer exist;
+- b. an intermediate evaluation is not carried out or is not carried out within the period pursuant to para. 4;
+8. The revocation or limitation of the certificate shall take effect three weeks after the delivery of the decision on the revocation or limitation. The suspension shall take effect immediately. § 4.8 applies accordingly.
+## §5.7 Modification of the certification item
+1. If the connector manufacturer makes or intends to make changes to the certified processes or the certified component that may result in the certificate being revoked or restricted, the company shall immediately inform the Certification Body of the intended or already made change.
+2. If the Certification Body becomes aware of a change in a certified connector that may lead to a change in assessment with respect to the certificate issued, due to notification by the company, the Evaluation Facility or a third party, or due to other circumstances, the Certification Body shall immediately take the necessary measures to determine whether the requirements for certification are also met for the changed evaluation item. ## § 5.6 applies accordingly.
 
-§5.3 Period of validity. Renewal certification
-The certificate is issued for a maximum period of validity of two years for components and three years for the operational environments of participating organizations. The period begins with the date of issue stated in the certificate.
-The Applicant may request, before or after the period of validity has expired, that the operational environment or component be reevaluated and re-certified in accordance with these Rules of Procedure.
-The rules for the (first) evaluation and certification apply to the renewal evaluation and certification. The Applicant may appoint the Evaluation Facility which carried out the previous evaluation or another Evaluation Facility. If the test reports of the previous tests are available and the evaluation object is unchanged with respect to the last evaluation, the evaluation may be reduced to a re-assessment of the evaluation object with respect to developments in the state of the art and the IDS.
-The Certification Body may issue the new certificate to either start immediately or to start immediately after expiry of the validity period of the previous certificate if the application for the date is submitted in good time.
-§5.4 Monitoring
-The operational environment of the participating organization shall be subject to surveillance in the form of an annual surveillance audit during the period of validity of the certificate. There is no surveillance audit as part of Component Certification.
-The Certification Body shall remind the Applicant and the Evaluation Facility in good time of an upcoming surveillance audit and shall draw attention to the consequence of the absence of the surveillance audit. If the surveillance audit is not carried out at the latest by the end of the twelfth month following the issue of the certificate or the corresponding points in time in the following years, the Certification Body will ultimately withdraw the certificate.
-The Certification Body shall evaluate the audit report of the surveillance audit. §4.3 applies accordingly.
-The Certification Body shall decide immediately on the maintenance, restriction, suspension or revocation of the certificate on the basis of the evaluation report of the surveillance audit of the evaluator, the assessment by the certifier and, if necessary, further findings. § Section 4.6 (6) shall apply accordingly.
-§5.5 Certification mark
-The issuance of the certificate entitles the Applicant to use the certification mark in accordance with Appendix 2) for the certified organization or the certified component in accordance with the certification mark conditions of the certification mark holder.
-The certification mark may only be used during the validity period of the certificate.
-The mark shall contain only the following information:
-a. the graphical mark;
-b. the certificate number;
-c. the period of validity;
-d. the designation IDS-CS indicating the level of certification;
-e. the website on which the certificate is published.
-The Certification Body issues the certification mark and makes it available to the Applicant graphically in electronic form.
-§5.6 Restriction, Suspension or Revocation of the Certificate
-The Applicant may at any time request the restriction, suspension or revocation of the certificate. The request shall be complied with unless there are serious reasons for not doing so.
-The Applicant is obliged to inform the Certification Body in detail without delay if he becomes aware that the requirements for granting the certificate have not been met or no longer exist.
-If the Certification Body has reason to believe, on the basis of notification by the Applicant, the Evaluation Facility or a third party or due to other circumstances, that the requirements for granting the certificate have not been met or no longer exist, it shall immediately take the necessary measures to determine whether the requirements are met. In particular, the Certification Body may determine that an intermediate evaluation (in accordance with § 3.6) is necessary to maintain the certificate.
-If the Certification Body determines that an intermediate evaluation is necessary, it shall set the Applicant a reasonable period of time to carry out the intermediate evaluation. The Certification Body shall clearly describe to the Applicant under which aspects doubts exist as to compliance with the certification requirements. The time limit may be extended at the request of the Applicant.
-The Certification Body may suspend the certificate for the duration of the assessment procedure. In the case of suspension, the certification mark shall not be used. The Applicant shall inform its customers of the suspension.
-The Certification Body shall take the necessary measures to ensure compliance with the IDS on the basis of its findings, if necessary on the basis of the intermediate evaluation report. It can restrict, suspend, or revoke the certificate. The Certification Body shall give the Applicant the opportunity to comment before taking its decision. The decision shall state the reasons on which it is based and shall be communicated to the Applicant in text form. At the request of the Applicant, a change certification may be conducted.
-The certificate shall be revoked if
-a. the Certification Body determines that the prerequisites for granting the certificate were not met or no longer exist;
-b. an intermediate evaluation is not carried out or is not carried out within the period pursuant to para. 4;
-The revocation or limitation of the certificate shall take effect three weeks after the delivery of the decision on the revocation or limitation. The suspension shall take effect immediately. § 4.8 applies accordingly.
-§5.7 Modification of the certification item
-If the participating organization or the component manufacturer makes or intends to make changes to the certified processes or the certified component that may result in the certificate being revoked or restricted, the company shall immediately inform the Certification Body of the intended or already made change.
-If the Certification Body becomes aware of a change in a certified organization or component that may lead to a change in assessment with respect to the certificate issued, due to notification by the company, the Evaluation Facility or a third party, or due to other circumstances, the Certification Body shall immediately take the necessary measures to determine whether the requirements for certification are also met for the changed evaluation item. § 5.6 applies accordingly.
-6. Final clauses
-§6.1 Amendments
-Amendments to the Rules of Procedure shall be made by the holder or administrator of the IDS-CS.
 
-Annex 3 Outlook
-§2.5 Accreditation
-The Certification Body and the Evaluation Facility shall demonstrate compliance with the requirements of these procedural rules, in particular their technical suitability, by means of accreditation.
-The Certification Body requires the accreditation of a National Accreditation Body (NAB), that is a member of the International Accreditation Forum (IAF), for certifications according to these procedural rules.
-As long as the respective NAB does not have a specific accreditation procedure for the IDS Certification Body, the following accreditations shall be considered accreditations for the Certification Body within the meaning of these Rules of Procedure:
-a. Accreditation at the NAB according to ISO/IEC 17065 for IT security (ISO/IEC 15408, ETSI EN 319 401);
-b. Accreditation by NAB according to ISO/IEC 17021 for information security management systems according to ISO/IEC 27001.
-The Certification Body may only carry out certifications in accordance with these procedural rules if a valid accreditation exists.
-Evaluation Facilities require the accreditation of a National Accreditation Body (NAB), that is a member of the International Laboratory Accreditation Cooperation (ILAC) for evaluations according to these procedural rules.
-As long as the NAB does not have a specific accreditation procedure for Evaluation Facilities according to IDS, the following accreditations shall be considered accreditations for Evaluation Facilities in the sense of these procedural rules:
-a. Accreditation at the NAB according to ISO/ IEC 17025 for IT security (ISO/IEC 15408) or information security management systems (ISO/IEC 27001);
-b. Recognition as an expert body according to § 9 Abs. 3 BSIG.
-The professional suitability of the Certification Body and the Evaluation Facilities only exists in the temporal and material scope of accreditation. The period of validity of the accreditation of the Certification Body and Evaluation Facilities shall include the completion of the evaluation and certification procedure.
+
