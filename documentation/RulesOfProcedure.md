@@ -119,12 +119,13 @@ The Certification Body and the Evaluation Facility may charge appropriate fees f
 3. The evaluation should be carried out on a sample basis. In relation to a request (e.g. catalog data), a sample of activities is to be evaluated in order to fulfill a requirement (e.g. catalog data). With regard to the implementation of individual activities, a sample of elements (e.g. catalog data) shall be evaluated.
 4. The sample shall be selected in such a way that the evaluation of the selected activities or elements provides an indication of the compliance with the requirement.
 ## §3.4 Recognition of certificates
-The Certification Body shall recognize relevant certificates for the object of evaluation or individual connectors thereof. The evaluation of the covered criteria for the connector named in the certificate is then not necessary. However, it is necessary to evaluate criteria not covered by this certificate as well as the interaction of the recognized connector with other components, in particular the interfaces relevant to that interaction.
-If the Applicant seeks recognition, the Evaluation Facility shall evaluate without delay whether and to what extent recognition can be granted.
-The Evaluation Facility shall ask the Certification Body for a preliminary ruling on the recognition of certificates. The request shall be accompanied at least by the particulars and documents referred to in § 3.2 (4).
+1. The Certification Body shall recognize relevant certificates for the object of evaluation or individual connectors thereof. The evaluation of the covered criteria for the connector named in the certificate is then not necessary. However, it is necessary to evaluate criteria not covered by this certificate as well as the interaction of the recognized connector with other components, in particular the interfaces relevant to that interaction.
+2. If the Applicant seeks recognition, the Evaluation Facility shall evaluate without delay whether and to what extent recognition can be granted.
+3. The Evaluation Facility shall ask the Certification Body for a preliminary ruling on the recognition of certificates. The request shall be accompanied at least by the particulars and documents referred to in § 3.2 (4).
 ## §3.5 Assessment and evaluation report
-On the basis of the evaluation, the evaluator shall prepare an assessment of the connector's compliance with the requirements of the IDS in relation to a specific Module. 
-The Evaluation Facility shall draw up an evaluation report on the basis of the evaluation. The evaluation report shall include at least the following information:
+1. On the basis of the evaluation, the evaluator shall prepare an assessment of the connector's compliance with the requirements of the IDS in relation to a specific Module. 
+2. The Evaluation Facility shall draw up an evaluation report on the basis of the evaluation.
+3. The evaluation report shall include at least the following information:
 a. the subject matter of the evaluation;
 b. a description of the timing and scope of the evaluation, including the locations and premises where it was conducted;
 c. a brief description (a few sentences or keywords) of the implementation of each IDS requirement;
@@ -137,12 +138,12 @@ i. the justification of the overall result;
 j. a list of the reviewed documentation;
 k. the declaration of the Applicant in accordance with section 3.2(3);
 l. the declaration of the evaluator that he has met the requirements of these Rules of Procedure for independence and impartiality and that there is no cause for concern of bias.
-The evaluation report may contain additional hints. The hints may also indicate whether and through which measures the Applicant is still able to meet IDS requirements that have not yet been achieved.
-The evaluation item shall be described in detail in the evaluation report. In particular, the function of the connectors must be described and delimited in detail.
-The name of the evaluation item may be given in an appendix to the evaluation report, but in any case it must be unambiguous.
-The Evaluation Facility submits a draft of the evaluation report to the Certification Body for comments. The final version of the evaluation report may only be submitted to the Applicant after the Certification Body has given its comments.
-The Applicant may only make the evaluation report available to third parties in full text, stating the date of issue, and pass it on after written approval by the Evaluation Facility.
-3.6 Change Certification
+4. The evaluation report may contain additional hints. The hints may also indicate whether and through which measures the Applicant is still able to meet IDS requirements that have not yet been achieved.
+5. The evaluation item shall be described in detail in the evaluation report. In particular, the function of the connectors must be described and delimited in detail.
+6. The name of the evaluation item may be given in an appendix to the evaluation report, but in any case it must be unambiguous.
+7. The Evaluation Facility submits a draft of the evaluation report to the Certification Body for comments. The final version of the evaluation report may only be submitted to the Applicant after the Certification Body has given its comments.
+8. The Applicant may only make the evaluation report available to third parties in full text, stating the date of issue, and pass it on after written approval by the Evaluation Facility.
+## §3.6 Change Certification
 1. After a connector has been certified, the applicant must inform the Certification Body and an Evaluation Facility of any changes to this connector that shall be deployed in an IDS context.
 2. To start the change certification process, the applicant must report the changes in a written manner to the Certification Body and Evaluation Facilitity.
 3. During a change certification, the Certification Body and Evaluation Facility must determine whether the certified connector continues to meet the IDS requirements of the originally certified Module after changes have been made.
@@ -170,21 +171,21 @@ e. the Applicant's obligations to cooperate.
 5. The certifier coordinates the evaluation object, the scope, the duration and the schedule of the evaluation with the responsible evaluator and the Applicant. The coordination shall also cover intended recognition of existing certificates.
 6. The Certification Body may reserve the right to participate in the evaluation in whole or in part. However, it may not carry out any evaluation procedures or intervene in the evaluation process.
 ## §4.3 Assessment of the evaluation
-By evaluating the evaluation report, the Certification Body determines whether the evaluation was conducted properly, in particular whether it meets the requirements of these procedural rules, and whether the participating connector meets the IDS requirements at the Module applied for.
-The Certification Body may request further explanations or additions to the evaluation report from the Evaluation Facility.
-In consultation with the Evaluation Facility, the Certification Body may collect information and evidence from the Applicant insofar as this is necessary for the certification decision.
+1. By evaluating the evaluation report, the Certification Body determines whether the evaluation was conducted properly, in particular whether it meets the requirements of these procedural rules, and whether the participating connector meets the IDS requirements at the Module applied for.
+2. The Certification Body may request further explanations or additions to the evaluation report from the Evaluation Facility.
+3. In consultation with the Evaluation Facility, the Certification Body may collect information and evidence from the Applicant insofar as this is necessary for the certification decision.
 ## §4.4 Recognition of IDS certificates
 1. The Certification Body shall recognize IDS certificates for connectors of the participating connector to the extent of their validity and Module, provided that they have been issued in accordance with these Rules of Procedure.
 2. In the event of recognition, the certificate may be issued for the full period of validity in accordance with § 5.3. The certificate shall be revoked if a recognized certificate expires. This shall not apply if the relevant connector is immediately included in the certificate for the connector by a change certification according to § 4.9.
 3. The Certification Body shall monitor the validity of the recognized certificates. 
 ## §4.5 Recognition of other certificates
 1. The Certification Body may recognize other certificates if they are materially and procedurally equivalent to an IDS certificate. The Certification Body determines the Module for which the certificate is recognized.
-A material equivalence exists if the other certificate is based on requirements that are comparable to or exceed those of the IDS with regard to the Module.
-A procedural equivalence exists if the other certificate was granted in a certification procedure that offers a comparable guarantee for the proper evaluation and certification in accordance with these procedural rules.
-The following certificates are generally considered to be materially and procedurally equivalent:
+2. A material equivalence exists if the other certificate is based on requirements that are comparable to or exceed those of the IDS with regard to the Module.
+3. A procedural equivalence exists if the other certificate was granted in a certification procedure that offers a comparable guarantee for the proper evaluation and certification in accordance with these procedural rules.
+4. The following certificates are generally considered to be materially and procedurally equivalent:
 - certificates according to IEC 62443.
-The Certification Body shall justify the recognition, in particular with regard to the Module.
-In the event of recognition, § 4.4 paras. 2 to 3 apply accordingly.
+5. The Certification Body shall justify the recognition, in particular with regard to the Module.
+6. In the event of recognition, § 4.4 paras. 2 to 3 apply accordingly.
 ## §4.6 Decision of the Certification Body
 1. The Certification Body shall decide on the award of the certificate on the basis of the evaluation report, the assessment by the certifier and, if necessary, further findings.
 2. The certificate must be issued to the extent requested if the connector fulfills the corresponding IDS requirements.
