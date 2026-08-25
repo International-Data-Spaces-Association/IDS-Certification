@@ -8,7 +8,6 @@ Certification according to the International Data Spaces Certification Scheme (I
 3. The evaluation procedure
 4. The certification procedure
 5. The certificate
-6. Final clauses
    
 # 1. Scope of application
 ## §1.1 Scope of application
