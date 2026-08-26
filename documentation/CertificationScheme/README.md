@@ -12,6 +12,7 @@ The IDSA Certification Scheme consists of the following sections.
 - Certification Body
 - Evaluation Facility
 - Applicant
+- Issuance of Certificates
 
 ### [Part 2 – Connector Certification](./ConnectorCertification.md)
 
