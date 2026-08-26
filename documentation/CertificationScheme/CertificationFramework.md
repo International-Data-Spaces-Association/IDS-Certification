@@ -98,6 +98,6 @@ All Applicants need to actively submit an application to start the certification
 
 ## Issuance of Certificates
 
-After a successfully completed evaluation, the Certification Body awards an IDS evaluation certificate to the applicant. These certificates will have a validity period of 2 years.
+After a successfully completed evaluation, the Certification Body awards an IDS evaluation certificate to the applicant. These certificates have a validity period of 2 years.
 Renewal of a certificate after its expiration is not foreseen under the current certification scheme.
 Change certification is required if changes are made to the target of certification as described in the Rules of Procedure. 
