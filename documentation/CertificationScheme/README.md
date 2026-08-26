@@ -16,10 +16,8 @@ The IDSA Certification Scheme consists of the following sections.
 
 ### [Part 2 – Connector Certification](./ConnectorCertification.md)
 
-- Third-Party Evaluation Approach
 - Certification Modules
-- Certification Configurations
-- Certification Process
+- Connector Certification Criteria Catalog
 
 ### [Part 3 – How To: IDS Certification Process](./CertificationProcess.md)
 
