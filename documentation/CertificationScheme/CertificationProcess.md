@@ -16,7 +16,6 @@ The main goal of this stage is the successful start of the IDS certification pro
 
 For the next phase (evaluation stage), the applicant must provide the necessary documents and the component with the necessary associated documentation, to the evaluation facility and the certification body.
 
-![Application Stage](./media/fig4.png)
 
 ## Evaluation Stage
 
@@ -29,7 +28,6 @@ The main goal of this stage is the evaluation of an IDS core component based on 
 
 The result of this stage is the evaluation report, created by the evaluation facility. The report serves the certification body in the next stage as a basis for the decision-making for the approval of the certificate.
 
-![Evaluation Stage](./media/fig5.png)
 
 ## Certification Stage
 
@@ -42,4 +40,3 @@ The main topics of this stage are the examination of the evaluation report by th
 - The applicant is responsible for archiving the evidence documentation as used during the evaluation.
 - Independent of the final decision by the certification body (acceptance or rejection), an invoice will be send to the applicant by the evaluation facility and the certification body.
 
-![Certification Stage](./media/fig6.png)
