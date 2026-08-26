@@ -1,7 +1,7 @@
 # Part 2 - Connector certification
 To secure the intended data sharing, Connectors must provide technical interoperability and trust in identity and identity management, complying with current standards. As such, Connector certification is interoperability- and trust-focused, while aiming to strengthen the development and maintenance process of these components.
 
-## Modules
+## Certification Modules
 The IDS certification follows a modular approach. Participants can choose which module they want to get certified in. 
 
 ### Module 1: Technical Interoperability
