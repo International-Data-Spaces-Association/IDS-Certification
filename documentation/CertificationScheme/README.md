@@ -6,14 +6,14 @@ The IDSA Certification Scheme consists of the following sections.
 
 ### [Introduction](./Introduction.md)
 
-### [Part 1 – Certification Framework](./Certification-Framework.md)
+### [Part 1 – Certification Framework](./CertificationFramework.md)
 
 - International Data Spaces Association
 - Certification Body
 - Evaluation Facility
 - Applicant
 
-### [Part 2 – Connector Certification](./Connector-Certification.md)
+### [Part 2 – Connector Certification](./ConnectorCertification.md)
 
 - Third-Party Evaluation Approach
 - Certification Modules
