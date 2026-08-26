@@ -10,7 +10,7 @@ All certification-related roles described in this paper are specific to the IDS,
 in 2018, the roles defined here will be assigned to actual organizations.
 
 
-![Role and responsibilities](./media/Certification_scheme_overview.png)
+![Role and responsibilities](./media/idsa_governance_diagram_only.png)
 Figure 1: International Data Spaces Certification - Roles & Responsibilities
 
 ## International Data Spaces Association
