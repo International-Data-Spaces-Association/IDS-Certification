@@ -1,27 +1,27 @@
-# IDSA Certification Scheme / WHITE PAPER CERTIFICATION
+# IDSA Certification Scheme / White Paper Certification
 
-The IDSA Certification Scheme consist of the follwing sections
+The IDSA Certification Scheme consists of the following sections.
 
-# CONTENT
+## Content
 
-## [INTRODUCTION](./Introduction.md)
+### [Introduction](./Introduction.md)
 
-## [**PART 1 --** CERTIFICATION FRAMEWORK](./Certification-Framework.md)
+### [Part 1 – Certification Framework](./Certification-Framework.md)
 
-* International Data Spaces Association
-* Certification Body
-* Evaluation Facility
-* Applicant
+- International Data Spaces Association
+- Certification Body
+- Evaluation Facility
+- Applicant
 
-## [**PART 2 --** CONNECTOR CERTIFICATION](./Connector-Certification.md)
+### [Part 2 – Connector Certification](./Connector-Certification.md)
 
-* Third-Party Evaluation Approach
-* Certification Modules
-* Certification Configurations
-* Certification Process
+- Third-Party Evaluation Approach
+- Certification Modules
+- Certification Configurations
+- Certification Process
 
-## [**PART 3 --** HOW-TO: IDS CERTIFICATION PROCESS](./Certification-Process.md)
+### [Part 3 – How To: IDS Certification Process](./CertificationProcess.md)
 
-* Application Stage
-* Evaluation Stage
-* Certification Stage
+- Application Stage
+- Evaluation Stage
+- Certification Stage
