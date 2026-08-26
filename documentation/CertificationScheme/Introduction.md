@@ -1,1 +1,9 @@
+# Introduction
 
+International Data Spaces (IDS) is a governance framework and a set of supporting services that enable organizations to share data in a trusted, sovereign and interoperable way. The initiative originated from the Fraunhofer research projects »Industrial Data Space« and »Industrial Data Space Plus«, and is carried forward today by the International Data Spaces Association (IDSA), a neutral, non-profit, vendor-independent association founded in 2016. While the original research projects were concerned with the design and implementation of the Reference Architecture Model, IDSA unites requirements from various industries and provides use cases to test the results gained from its implementation.
+
+Data sovereignty is a natural person's or legal entity's capability of exclusive self-determination with regard to their data goods: data stays with its owner, under that owner's control, rather than being handed over to an external platform. Participants within a data space must therefore use certified software, such as an IDS Connector, in order to exchange data securely and in a sovereign way. This document therefore presents the approach to Connector certification within International Data Spaces.
+
+The IDS Certification scheme encompasses all processes, rules and standards governing the certification of Connectors within International Data Spaces. The purpose of this document is therefore to present the framework for the scheme's structure, processes, certification modules and criteria catalog as defined by the Working Group Certification of the International Data Spaces Association. As such, this paper illustrates the core of our ambition for crafting a flexible and cost-effective certification scheme. As this is a work in progress, adjustments to the certification scheme may be made in the future and published in updated versions of this document.
+
+[Part 1 Certification Framework](./CertificationFramework.md)
