@@ -14,7 +14,7 @@ Certification according to the International Data Spaces Certification Scheme (I
 1. The Rules of Procedure apply to evaluations and certifications of connectors in the IDS.
 2. The Connector Certification required for participating in the IDS serves the purpose of proving the trustworthiness of the developed components by evaluating the fulfillment of functional, security-relevant and procedural requirements. The certificate is the most important prerequisite for a component being used within the IDS.
 ## §1.2 Subject of the evaluation and certification
-The Connector Certification is interoperability and security oriented and aims at checking the implementation of a connector. 
+1. The Connector Certification is interoperability and security oriented and aims at checking the implementation of a connector. 
 ## §1.3 Relationship to DIN EN ISO/IEC 17065
 1. These Rules of Procedure are a certification program in the sense of ISO/IEC 17065.
 2. The connectors are products according to ISO/IEC 17065.
